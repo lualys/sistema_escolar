@@ -52,7 +52,7 @@ sistema_escolar/
 
 ### 2️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/sistema_escolar.git
+git clone https://github.com/lualys/sistema_escolar.git
 cd sistema_escolar
 ````
 
